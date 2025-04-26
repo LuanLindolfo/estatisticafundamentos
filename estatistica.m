@@ -1,4 +1,4 @@
-
+#plot no octave
 cd 'C:\Users\T-GAMER\OneDrive\Workspace\py'; # Muda para o diretório
 dados = csvread('dados.csv'); # Agora leia o arquivo
 
